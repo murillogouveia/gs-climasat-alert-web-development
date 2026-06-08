@@ -1,0 +1,8 @@
+Nome dos integrantes:
+Murillo Padula de Gouveia - RM571620
+Renato Munhoz Mariana - RM573570
+Guilherme Mingues - RM568670
+Gabriel Vianna Cumino - RM571475
+
+Link do repositório GitHub:
+https://github.com/murillogouveia/gs-climasat-alert-web-development.git
