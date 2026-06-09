@@ -255,7 +255,6 @@ section {
     margin-left: var(--spacing-md);
 }
  
-/* problema */
 .problema-conteudo {
     display: flex;
     align-items: center;
@@ -294,7 +293,6 @@ section {
     font-size: .9rem;
 }
  
-/* tecnologia */
 .tecnologia-titulo {
     flex-wrap: wrap;
 }
@@ -389,7 +387,6 @@ section {
     font-size: .88rem;
 }
  
-/* benefícios */
 .beneficios-lista {
     display: flex;
     align-items: stretch;
@@ -515,7 +512,6 @@ section {
 }
  
  
-/* slideshow */
 .slideshow {
     max-width: 760px;
     margin-inline: auto;
@@ -567,7 +563,6 @@ button:hover {
 }
  
  
-/* formulário */
 .form-alerta {
     max-width: 620px;
     margin-inline: auto;
@@ -608,7 +603,6 @@ button:hover {
 }
  
  
-/* quiz */
 .quiz-card {
     max-width: 760px;
     margin-inline: auto;
@@ -651,6 +645,51 @@ button:hover {
     margin-top: var(--spacing-md);
 }
  
+
+.tema-area {
+    text-align: center;
+}
+
+.tema-area p {
+    color: var(--color-gray);
+    margin-bottom: var(--spacing-md);
+}
+
+.tema-botoes {
+    display: flex;
+    justify-content: center;
+    gap: var(--spacing-md);
+    flex-wrap: wrap;
+}
+
+.tema-espacial {
+    --color-bg: #020915;
+    --color-box: #071b2a;
+    --color-border: #0f5d73;
+    --color-green: #9dff00;
+    --color-blue: #00d9ff;
+}
+
+.tema-oceano {
+    --color-bg: #031827;
+    --color-box: #062a3a;
+    --color-border: #00bcd4;
+    --color-green: #00ffe0;
+    --color-blue: #38bdf8;
+}
+
+.tema-alerta {
+    --color-bg: #160909;
+    --color-box: #2a1111;
+    --color-border: #ff7a00;
+    --color-green: #ffcc00;
+    --color-blue: #ff4d4d;
+}
+
+body {
+    transition: background-color .4s;
+}
+
 @media(width <= 900px) {
  
     .header-hero {
