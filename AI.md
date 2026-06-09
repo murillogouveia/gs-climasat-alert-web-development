@@ -154,4 +154,4 @@ A equipe utilizou as orientações apenas para evitar erros nas alterações e m
 
 O ChatGPT foi utilizado como ferramenta de apoio durante o desenvolvimento, principalmente para revisão, organização e esclarecimento de dúvidas pontuais.
 
-As sugestões recebidas foram analisadas, adaptadas e testadas pela equipe. O projeto final foi desenvolvido e organizado pelo grupo, mantendo a proposta original do ClimaSat Alert e os requisitos solicitados pela disciplina de Web Development.
+As sugestões recebidas foram analisadas, adaptadas e testadas pela equipe. O projeto final foi desenvolvido e organizado pelo grupo, mantendo a proposta original do ClimaSat Alert e os requisitos solicitados pela disciplina de Web Development. 

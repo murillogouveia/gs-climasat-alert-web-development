@@ -5,4 +5,4 @@ Guilherme Mingues - RM568670
 Gabriel Vianna Cumino - RM571475
 
 Link do repositório GitHub:
-https://github.com/murillogouveia/gs-climasat-alert-web-development.git
+https://github.com/climasat-alert/gs-web-development.git

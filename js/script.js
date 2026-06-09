@@ -231,4 +231,4 @@ botoesTema.forEach(function (botao) {
         document.body.classList.remove("tema-espacial", "tema-oceano", "tema-alerta");
         document.body.classList.add(tema);
     });
-});
+}); 
