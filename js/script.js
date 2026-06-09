@@ -219,3 +219,16 @@ btnReiniciarQuiz.addEventListener("click", function () {
 });
 
 carregarPergunta();
+
+
+
+const botoesTema = document.querySelectorAll("[data-tema]");
+
+botoesTema.forEach(function (botao) {
+    botao.addEventListener("click", function () {
+        const tema = botao.getAttribute("data-tema");
+
+        document.body.classList.remove("tema-espacial", "tema-oceano", "tema-alerta");
+        document.body.classList.add(tema);
+    });
+});
